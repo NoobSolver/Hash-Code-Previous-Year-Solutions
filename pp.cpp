@@ -1,3 +1,4 @@
+#define  ll long long 
 #ifdef DEBUG
 #define _GLIBCXX_DEBUG
 #endif
