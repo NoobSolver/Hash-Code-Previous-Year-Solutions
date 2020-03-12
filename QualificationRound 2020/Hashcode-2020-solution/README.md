@@ -73,9 +73,4 @@ You can find an improvement of this solution (total score: **26,922,702**) in th
 https://github.com/tipavlos/Hashcode-2020-solution-Qualification-round
 
 
-## Our team
 
-- Athanasios Bollas ([Thanasis1101](https://github.com/Thanasis1101))
-- Dimitrios Sviggas ([lookatme3](https://github.com/lookatme3))
-- Anastasios Temperekidis ([Tasos Temp](https://github.com/tasosxak))
-- Pavlos Tiritiris ([tipavlos](https://github.com/tipavlos))
