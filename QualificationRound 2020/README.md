@@ -1,7 +1,7 @@
 Hashcode 2020 solution (Qualification round)
 Our solution for the 2020 Google Hashcode qualification round problem with libraries and books.
 
-Hashcode Logo
+https://github.com/Thanasis1101/Hashcode-2020-solution-Qualification-round/blob/master/images/hashcode.jpg
 
 Results
 File	Score
